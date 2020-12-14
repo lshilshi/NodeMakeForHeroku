@@ -1,5 +1,5 @@
 {
-  "name": "SubConverter",
+  "name": "NodeMake",
   "description": "Run SubConverter on Heroku.",
   "keywords": ["subconverter"],
   "website": "https://github.com/tindy2013/heroku-subconverter",
