@@ -38,7 +38,6 @@ jobs:
       run: |
         cd $GITHUB_WORKSPACE
         mkdir temp
-        mkdir profiles/NodeWeb
         sudo cp -rf NodeWeb/dist/* profiles/NodeWeb/
         sudo rm -rf NodeWeb
 
